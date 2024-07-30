@@ -108,6 +108,7 @@ body.scale-cv {
 
 .scale-cv .section {
   padding: 1rem 0 .5rem;
+  page-break-inside: avoid;
 }
 
 .scale-cv .section-title {
@@ -239,6 +240,7 @@ img {
 /* CLASS CSS */
 .section {
   padding: 1rem 0;
+  page-break-inside: avoid;
 }
 
 .section-title {
